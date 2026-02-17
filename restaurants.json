@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "name": "Vaishali",
+        "location": "FC Road",
+        "cuisine": "South Indian, Fast Food",
+        "rating": 4.4,
+        "address": "1218/1, Fergusson College Rd, Pune",
+        "lat": 18.5199,
+        "lng": 73.8407
+    },
+    {
+        "id": 2,
+        "name": "Cafe Goodluck",
+        "location": "Deccan Gymkhana",
+        "cuisine": "Irani, North Indian, Mughlai",
+        "rating": 4.3,
+        "address": "759/75, Goodluck Chowk, Pune",
+        "lat": 18.5173,
+        "lng": 73.8415
+    },
+    {
+        "id": 3,
+        "name": "Durvankur Dining Hall",
+        "location": "Sadashiv Peth",
+        "cuisine": "Maharashtrian Thali",
+        "rating": 4.2,
+        "address": "1216, Tilak Rd, Sadashiv Peth, Pune",
+        "lat": 18.5133,
+        "lng": 73.8569
+    },
+    {
+        "id": 4,
+        "name": "Shabree Restaurant",
+        "location": "Shivaji Nagar",
+        "cuisine": "Maharashtrian Thali",
+        "rating": 4.1,
+        "address": "1199/1 A, Fergusson College Rd, Pune",
+        "lat": 18.5255,
+        "lng": 73.8411
+    },
+    {
+        "id": 5,
+        "name": "Malaka Spice",
+        "location": "Koregaon Park",
+        "cuisine": "Asian, Thai, Indonesian",
+        "rating": 4.5,
+        "address": "Lane 5, North Main Road, Koregaon Park, Pune",
+        "lat": 18.5414,
+        "lng": 73.8821
+    },
+    {
+        "id": 6,
+        "name": "Farmaish",
+        "location": "Viman Nagar",
+        "cuisine": "North Indian, Chinese",
+        "rating": 4.0,
+        "address": "Giga Space, Viman Nagar, Pune",
+        "lat": 18.5678,
+        "lng": 73.9142
+    },
+    {
+        "id": 7,
+        "name": "Marz-O-Rin",
+        "location": "Camp",
+        "cuisine": "Sandwiches, Bakery",
+        "rating": 4.6,
+        "address": "Main Street, Camp, Pune",
+        "lat": 18.5218,
+        "lng": 73.8758
+    },
+    {
+        "id": 8,
+        "name": "German Bakery Wunderbar",
+        "location": "Deccan Gymkhana",
+        "cuisine": "Cafe, Bakery, European",
+        "rating": 4.2,
+        "address": "Near CCD, Deccan Gymkhana, Pune",
+        "lat": 18.5185,
+        "lng": 73.8425
+    },
+    {
+        "id": 9,
+        "name": "George Restaurant",
+        "location": "Camp",
+        "cuisine": "Mughlai, North Indian",
+        "rating": 4.3,
+        "address": "East Street, Camp, Pune",
+        "lat": 18.5205,
+        "lng": 73.8741
+    },
+    {
+        "id": 10,
+        "name": "Tiranga Non-Veg",
+        "location": "Kothrud",
+        "cuisine": "Biryani, North Indian",
+        "rating": 4.1,
+        "address": "Near Kothrud Bus Stand, Pune",
+        "lat": 18.5085,
+        "lng": 73.8055
+    },
+    {
+        "id": 11,
+        "name": "Surve's Pure Non-Veg",
+        "location": "FC Road",
+        "cuisine": "Maharashtrian, Non-Veg",
+        "rating": 4.0,
+        "address": "Near Z Bridge, FC Road, Pune",
+        "lat": 18.5201,
+        "lng": 73.8399
+    },
+    {
+        "id": 12,
+        "name": "Chaitanya Parantha",
+        "location": "Shivaji Nagar",
+        "cuisine": "North Indian, Paratha",
+        "rating": 4.4,
+        "address": "Near Pavilion Mall, Shivaji Nagar, Pune",
+        "lat": 18.5302,
+        "lng": 73.8450
+    },
+    {
+        "id": 13,
+        "name": "South Indies",
+        "location": "Bund Garden Road",
+        "cuisine": "South Indian, Kerala",
+        "rating": 4.5,
+        "address": "Near Inox, Bund Garden Road, Pune",
+        "lat": 18.5311,
+        "lng": 73.8778
+    },
+    {
+        "id": 14,
+        "name": "Pimple Saudagar Biryani",
+        "location": "Pimple Saudagar",
+        "cuisine": "Biryani, North Indian",
+        "rating": 3.9,
+        "address": "Near Rainbow Hospital, Pimple Saudagar, Pune",
+        "lat": 18.6180,
+        "lng": 73.8010
+    },
+    {
+        "id": 15,
+        "name": "Kalyan Bhel",
+        "location": "Salunkhe Vihar",
+        "cuisine": "Street Food, Chaat",
+        "rating": 4.6,
+        "address": "Near ICICI Bank, Salunkhe Vihar, Pune",
+        "lat": 18.5070,
+        "lng": 73.9000
+    },
+    {
+        "id": 16,
+        "name": "Effingut",
+        "location": "Koregaon Park",
+        "cuisine": "Continental, Bar Food",
+        "rating": 4.3,
+        "address": "Lane 5, Koregaon Park, Pune",
+        "lat": 18.5410,
+        "lng": 73.8825
+    },
+    {
+        "id": 17,
+        "name": "Mad Over Donuts",
+        "location": "Phoenix Marketcity",
+        "cuisine": "Desserts, Donuts",
+        "rating": 4.2,
+        "address": "Phoenix Marketcity, Viman Nagar, Pune",
+        "lat": 18.5670,
+        "lng": 73.9160
+    },
+    {
+        "id": 18,
+        "name": "Goli Vada Pav No. 1",
+        "location": "Wakad",
+        "cuisine": "Fast Food, Vada Pav",
+        "rating": 4.0,
+        "address": "Near Datta Mandir, Wakad, Pune",
+        "lat": 18.6190,
+        "lng": 73.7480
+    },
+    {
+        "id": 19,
+        "name": "PK Biryani House",
+        "location": "Bavdhan",
+        "cuisine": "Biryani, Maharashtrian",
+        "rating": 4.1,
+        "address": "Near Crystal Honda, Bavdhan, Pune",
+        "lat": 18.5020,
+        "lng": 73.7580
+    },
+    {
+        "id": 20,
+        "name": "The Sassy Spoon",
+        "location": "Koregaon Park",
+        "cuisine": "European, Modern Indian",
+        "rating": 4.4,
+        "address": "Saras Baug, Koregaon Park, Pune",
+        "lat": 18.5390,
+        "lng": 73.8830
+    },
+    {
+        "id": 21,
+        "name": "Panchali",
+        "location": "Kothrud",
+        "cuisine": "Pure Veg, Thali",
+        "rating": 4.3,
+        "address": "Kothrud, Pune",
+        "lat": 18.5050,
+        "lng": 73.8045
+    },
+    {
+        "id": 22,
+        "name": "Hyderabadi House",
+        "location": "Baner",
+        "cuisine": "Hyderabadi, Biryani",
+        "rating": 4.2,
+        "address": "Baner Road, Pune",
+        "lat": 18.5630,
+        "lng": 73.7690
+    },
+    {
+        "id": 23,
+        "name": "Arthur's Theme",
+        "location": "Koregaon Park",
+        "cuisine": "Continental, European",
+        "rating": 4.5,
+        "address": "North Main Road, Koregaon Park, Pune",
+        "lat": 18.5420,
+        "lng": 73.8835
+    },
+    {
+        "id": 24,
+        "name": "Hutatma Chowk Vada Pav",
+        "location": "Deccan Gymkhana",
+        "cuisine": "Street Food, Vada Pav",
+        "rating": 4.6,
+        "address": "Deccan Gymkhana, Pune",
+        "lat": 18.5170,
+        "lng": 73.8410
+    },
+    {
+        "id": 25,
+        "name": "Prem's",
+        "location": "Koregaon Park",
+        "cuisine": "North Indian, Continental",
+        "rating": 4.1,
+        "address": "North Main Road, Koregaon Park, Pune",
+        "lat": 18.5400,
+        "lng": 73.8840
+    }
+]

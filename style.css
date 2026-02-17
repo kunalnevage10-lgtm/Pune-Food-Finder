@@ -1,0 +1,111 @@
+/* Body aur font set karein */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main Container ki styling */
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    color: #c0392b; /* Thoda Red colour */
+    border-bottom: 2px solid #ecf0f1;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+/* Search Bar Area */
+.search-container {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.search-input {
+    padding: 12px;
+    width: 70%;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.search-button {
+    padding: 12px 20px;
+    background-color: #2c3e50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.search-button:hover {
+    background-color: #34495e;
+}
+
+.clear-search {
+    text-decoration: none;
+    padding: 12px 15px;
+    color: #2c3e50;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+/* Restaurant Card Styling */
+.restaurant-card {
+    border: 1px solid #e0e0e0;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.restaurant-card h2 {
+    color: #2980b9; /* Rating colour */
+    border-bottom: 1px dashed #ecf0f1;
+    padding-bottom: 8px;
+    margin-top: 0;
+}
+
+.restaurant-card strong {
+    font-weight: 600;
+    color: #7f8c8d;
+}
+/* --- Rating Star Styling --- */
+.rating-stars {
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.rating-stars .full {
+    color: #f39c12; /* Golden/Orange colour */
+}
+
+.rating-stars .half {
+    color: #f39c12;
+}
+
+.rating-text {
+    font-size: 14px;
+    color: #555;
+    font-weight: normal;
+}
